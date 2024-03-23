@@ -1,0 +1,33 @@
+.text-heading {
+    font-family: "Roboto";
+    font-size: 32px;
+    color: navy;
+}
+
+.text-des {
+    font-family: "Roboto";
+    font-size: 26px;
+    color: navy;
+    margin-bottom: 50px;
+}
+
+.link {
+    text-decoration: none;
+    font-family: "Roboto";
+    font-size: 16px;
+    margin-right: 20px;
+    background-color: rgb(14, 111, 246);
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.icon {
+    margin-right: 6px;
+
+}
+
+.button {
+    display: flex;
+    align-items: center;
+}

@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+.form{
+    width: 400px;
+    padding: 50px;
+    padding-left: 40px;
+    background-color: white;
+    border: 2px solid rgba(9, 0, 0, 0.863);
+    border-radius: 10px;
+    height: 500px;
+}
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    height: 600px;
+    width: 100%;
+    background-image: linear-gradient(to left, rgba(10, 10, 10, 0), rgb(161, 212, 161));
+}
+.right{
+    background-image: linear-gradient(to right, rgba(230, 240, 230, 0), rgb(186, 245, 186));
+    padding: 137px;
+    
+}
+
+.btn{
+    color: black;
+    background-color: aquamarine;
+    width: 100px;
+}
+.body{
+    width: 100%;
+    height: 100%;
+    background-image:  linear-gradient(to right, rgba(57, 177, 57, 0), rgb(245, 248, 245));;
+}

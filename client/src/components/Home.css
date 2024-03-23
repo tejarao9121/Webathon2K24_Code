@@ -1,0 +1,20 @@
+.bg-container {
+    background-image: url("https://www.goodhire.com/static/f9a53f8593380f7a702ec6e1de070e95/Blog-4-ways-background-checks-help-with-future-hiring.png ");
+    width: 100vw;
+    height: 92vh;
+    background-size: cover;
+    /* filter: brightness(50%); */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0px 150px;
+}
+
+.home-content {
+    font-family: "Roboto";
+    font-size: 72px;
+    font-weight: bold;
+    margin-bottom: 120px;
+
+}
